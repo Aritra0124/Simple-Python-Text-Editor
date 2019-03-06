@@ -1,0 +1,11 @@
+Step by step follow the process......
+
+1. run the c.sh file by ./c.sh command
+if the required packages are not installed then make sure the packages the installed.
+sudo apt-get install python3
+
+sudo apt-get install python3-tkinter 
+              or 
+pip3 install python3-tkinter
+
+2. run the texteditor.py by python3 texteditor.py command.
